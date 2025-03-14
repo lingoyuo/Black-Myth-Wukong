@@ -1,0 +1,1459 @@
+fileFormatVersion: 2
+guid: 18a8434226bdd4849b255f6726f399a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: grass_platform_01_left
+  - first:
+      213: 21300002
+    second: grass_platform_01_midle
+  - first:
+      213: 21300004
+    second: grass_platform_01_right
+  - first:
+      213: 21300006
+    second: ground01
+  - first:
+      213: 21300008
+    second: ground02
+  - first:
+      213: 21300010
+    second: wordPlatform
+  - first:
+      213: 21300012
+    second: thanh-go
+  - first:
+      213: 21300014
+    second: ground_volcano
+  - first:
+      213: 21300016
+    second: volcano_grass_l
+  - first:
+      213: 21300018
+    second: volcano_grass_m
+  - first:
+      213: 21300020
+    second: volcano_grass_r
+  - first:
+      213: 21300022
+    second: brick01
+  - first:
+      213: 21300024
+    second: brick02
+  - first:
+      213: 21300026
+    second: groud04_m
+  - first:
+      213: 21300028
+    second: ground03_l
+  - first:
+      213: 21300030
+    second: ground03_m
+  - first:
+      213: 21300032
+    second: ground03_r
+  - first:
+      213: 21300034
+    second: ground04_l
+  - first:
+      213: 21300036
+    second: ground04_r
+  - first:
+      213: 21300038
+    second: gach-3
+  - first:
+      213: 21300040
+    second: gach
+  - first:
+      213: 21300042
+    second: gach1
+  - first:
+      213: 21300044
+    second: thanh-go-02
+  - first:
+      213: 21300046
+    second: day thung
+  - first:
+      213: 21300048
+    second: nut
+  - first:
+      213: 21300050
+    second: 1
+  - first:
+      213: 21300052
+    second: 2
+  - first:
+      213: 21300054
+    second: 3
+  - first:
+      213: 21300056
+    second: day-leo
+  - first:
+      213: 21300058
+    second: Untitled-3(1)
+  - first:
+      213: 21300060
+    second: giua
+  - first:
+      213: 21300062
+    second: phai
+  - first:
+      213: 21300064
+    second: trai
+  - first:
+      213: 21300066
+    second: ground_forest_l
+  - first:
+      213: 21300068
+    second: ground_forest_m
+  - first:
+      213: 21300070
+    second: ground_forest_r
+  - first:
+      213: 21300072
+    second: grass_forest
+  - first:
+      213: 21300074
+    second: grass_freez_01_l
+  - first:
+      213: 21300076
+    second: grass_freez_01_m
+  - first:
+      213: 21300078
+    second: grass_freez_01_r
+  - first:
+      213: 21300080
+    second: grass_small_01_l
+  - first:
+      213: 21300082
+    second: grass_small_01_m
+  - first:
+      213: 21300084
+    second: grass_small_01_r
+  - first:
+      213: 21300086
+    second: small_ground_01
+  - first:
+      213: 21300088
+    second: rock_platform_dark_01
+  - first:
+      213: 21300090
+    second: rock_platform_dark_02
+  - first:
+      213: 21300092
+    second: rock_fall
+  - first:
+      213: 21300094
+    second: grass_freez02_l
+  - first:
+      213: 21300096
+    second: grass_freez02_m
+  - first:
+      213: 21300098
+    second: 'grass_freez02_r '
+  - first:
+      213: 21300100
+    second: ground_freez01
+  - first:
+      213: 21300102
+    second: 'ground_freez02_l '
+  - first:
+      213: 21300104
+    second: ground_freez02_m
+  - first:
+      213: 21300106
+    second: 'ground_freez02_r '
+  - first:
+      213: 21300108
+    second: ground05_l
+  - first:
+      213: 21300110
+    second: ground05_m
+  - first:
+      213: 21300112
+    second: ground05_r
+  - first:
+      213: 21300114
+    second: ground06_l
+  - first:
+      213: 21300116
+    second: ground06_m
+  - first:
+      213: 21300118
+    second: ground06_r
+  - first:
+      213: 21300120
+    second: tuyet
+  - first:
+      213: 21300122
+    second: Untitled-14
+  - first:
+      213: 21300124
+    second: Untitled-15
+  - first:
+      213: 21300126
+    second: Untitled-16
+  - first:
+      213: 21300128
+    second: Untitled-17
+  - first:
+      213: 21300130
+    second: Untitled-18
+  - first:
+      213: 21300132
+    second: grass_03_l
+  - first:
+      213: 21300134
+    second: grass_03_m
+  - first:
+      213: 21300136
+    second: grass_03_r
+  - first:
+      213: 21300138
+    second: ground_06
+  - first:
+      213: 21300140
+    second: ground_07
+  - first:
+      213: 21300142
+    second: ground_freez_03
+  - first:
+      213: 21300144
+    second: platform_white_rock
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: day thung
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 927
+        width: 21
+        height: 1119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: day-leo
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3
+        width: 74
+        height: 1229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_03_l
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 691
+        width: 115
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_03_m
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1463
+        width: 206
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_03_r
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 554
+        width: 112
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_forest
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1977
+        width: 389
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_freez02_l
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 647
+        width: 115
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_freez02_m
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1368
+        width: 205
+        height: 42
+      alignment: 9
+      pivot: {x: 0.502439, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'grass_freez02_r '
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 603
+        width: 115
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_platform_01_left
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1298
+        width: 203
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_platform_01_midle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1905
+        width: 341
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_platform_01_right
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1230
+        width: 202
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_small_01_l
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1689
+        width: 114
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4787234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_small_01_m
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1412
+        width: 205
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_small_01_r
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 35
+        width: 117
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: groud04_m
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1512
+        width: 211
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground01
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1515
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground02
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1341
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground04_l
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1041
+        width: 165
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground04_r
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 738
+        width: 138
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground05_l
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 407
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground05_m
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 442
+        width: 122
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground05_r
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 629
+        width: 81
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground06_l
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 296
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground06_m
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 331
+        width: 122
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground06_r
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 518
+        width: 81
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_06
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1128
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_07
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1022
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_forest_l
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 86
+        width: 120
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_forest_m
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 553
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_forest_r
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 740
+        width: 143
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_freez01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'ground_freez02_l '
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 185
+        width: 96
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_freez02_m
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 220
+        width: 122
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 'ground_freez02_r '
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 74
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_freez_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 342
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_volcano
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 874
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1803
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform_white_rock
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 236
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_fall
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1738
+        width: 60
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_platform_dark_01
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 688
+        width: 134
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_platform_dark_02
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 971
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_ground_01
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanh-go-02
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1808
+        width: 274
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thanh-go
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1754
+        width: 273
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tuyet
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 946
+        width: 80
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_grass_l
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1234
+        width: 181
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_grass_m
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1854
+        width: 324
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: volcano_grass_r
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1288
+        width: 182
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wordPlatform
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1701
+        width: 273
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      day thung: 21300046
+      day-leo: 21300056
+      grass_03_l: 21300132
+      grass_03_m: 21300134
+      grass_03_r: 21300136
+      grass_forest: 21300072
+      grass_freez02_l: 21300094
+      grass_freez02_m: 21300096
+      'grass_freez02_r ': 21300098
+      grass_platform_01_left: 21300000
+      grass_platform_01_midle: 21300002
+      grass_platform_01_right: 21300004
+      grass_small_01_l: 21300080
+      grass_small_01_m: 21300082
+      grass_small_01_r: 21300084
+      groud04_m: 21300026
+      ground01: 21300006
+      ground02: 21300008
+      ground04_l: 21300034
+      ground04_r: 21300036
+      ground05_l: 21300108
+      ground05_m: 21300110
+      ground05_r: 21300112
+      ground06_l: 21300114
+      ground06_m: 21300116
+      ground06_r: 21300118
+      ground_06: 21300138
+      ground_07: 21300140
+      ground_forest_l: 21300066
+      ground_forest_m: 21300068
+      ground_forest_r: 21300070
+      ground_freez01: 21300100
+      'ground_freez02_l ': 21300102
+      ground_freez02_m: 21300104
+      'ground_freez02_r ': 21300106
+      ground_freez_03: 21300142
+      ground_volcano: 21300014
+      nut: 21300048
+      platform_white_rock: 21300144
+      rock_fall: 21300092
+      rock_platform_dark_01: 21300088
+      rock_platform_dark_02: 21300090
+      small_ground_01: 21300086
+      thanh-go: 21300012
+      thanh-go-02: 21300044
+      tuyet: 21300120
+      volcano_grass_l: 21300016
+      volcano_grass_m: 21300018
+      volcano_grass_r: 21300020
+      wordPlatform: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

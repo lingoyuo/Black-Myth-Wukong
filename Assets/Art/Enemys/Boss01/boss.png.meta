@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: 56b966d7173ad8a43a02df622a868ecb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: platform_01
+  - first:
+      213: 21300002
+    second: platform_02
+  - first:
+      213: 21300004
+    second: trap_01
+  - first:
+      213: 21300006
+    second: "c\uFFFDnh ph?i - 1"
+  - first:
+      213: 21300008
+    second: "c\uFFFDnh ph?i - 2"
+  - first:
+      213: 21300010
+    second: "c\uFFFDnh ph?i - 3"
+  - first:
+      213: 21300012
+    second: "c\uFFFDnh tr\uFFFDi - 1"
+  - first:
+      213: 21300014
+    second: "c\uFFFDnh tr\uFFFDi - 2"
+  - first:
+      213: 21300016
+    second: "c\uFFFDnh tr\uFFFDi - 3"
+  - first:
+      213: 21300018
+    second: c?c u
+  - first:
+      213: 21300020
+    second: dau
+  - first:
+      213: 21300022
+    second: "kh\uFFFDi 1"
+  - first:
+      213: 21300024
+    second: "kh\uFFFDi 2"
+  - first:
+      213: 21300026
+    second: "kh\uFFFDi 3"
+  - first:
+      213: 21300028
+    second: mao
+  - first:
+      213: 21300030
+    second: mo 1
+  - first:
+      213: 21300032
+    second: m?t ch?t
+  - first:
+      213: 21300034
+    second: m?t m?
+  - first:
+      213: 21300036
+    second: m? d??i
+  - first:
+      213: 21300038
+    second: "ng\uFFFDn ch\uFFFDn"
+  - first:
+      213: 21300040
+    second: "ng\uFFFDn c\uFFFDi"
+  - first:
+      213: 21300042
+    second: "th\uFFFDn"
+  - first:
+      213: 21300044
+    second: "v\uFFFDng c?"
+  - first:
+      213: 21300046
+    second: "?u\uFFFDi"
+  - first:
+      213: 21300048
+    second: "?\uFFFDi"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "c\uFFFDnh ph?i - 1"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 869
+        width: 313
+        height: 145
+      alignment: 9
+      pivot: {x: 0.90627855, y: 0.21851975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "c\uFFFDnh ph?i - 2"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 473
+        width: 207
+        height: 204
+      alignment: 9
+      pivot: {x: 0.8367082, y: 0.007113887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "c\uFFFDnh ph?i - 3"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 679
+        width: 224
+        height: 188
+      alignment: 9
+      pivot: {x: 0.87236536, y: 0.9983686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "c\uFFFDnh tr\uFFFDi - 1"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 543
+        width: 106
+        height: 114
+      alignment: 9
+      pivot: {x: 0.48922068, y: 0.14920259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "c\uFFFDnh tr\uFFFDi - 2"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 164
+        height: 256
+      alignment: 9
+      pivot: {x: 0.7647489, y: 0.035818875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "c\uFFFDnh tr\uFFFDi - 3"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 114
+        width: 138
+        height: 216
+      alignment: 9
+      pivot: {x: 0.78979003, y: 0.9443447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: c?c u
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 355
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dau
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 85
+        height: 68
+      alignment: 9
+      pivot: {x: 0.016075224, y: 0.13033625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kh\uFFFDi 1"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 659
+        width: 114
+        height: 208
+      alignment: 9
+      pivot: {x: 0.0468232, y: 0.003248068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kh\uFFFDi 2"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 138
+        height: 208
+      alignment: 9
+      pivot: {x: 0.29759964, y: 0.007621772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "kh\uFFFDi 3"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 332
+        width: 104
+        height: 209
+      alignment: 9
+      pivot: {x: 0.10694592, y: 0.0045126593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mao
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 15
+        width: 89
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mo 1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 183
+        width: 51
+        height: 30
+      alignment: 9
+      pivot: {x: 0.21459842, y: 0.46267954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m?t ch?t
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 982
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.53828, y: 0.32055283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m?t m?
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 389
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.64635694, y: 0.3963305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m? d??i
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 415
+        width: 38
+        height: 10
+      alignment: 9
+      pivot: {x: 0.16903646, y: 0.29039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ng\uFFFDn ch\uFFFDn"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 960
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.14006226, y: 0.8067688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ng\uFFFDn c\uFFFDi"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 942
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0.7556381, y: 0.9090233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "th\uFFFDn"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 51
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "v\uFFFDng c?"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 125
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "?u\uFFFDi"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 427
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.9120538, y: 0.0077341255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "?\uFFFDi"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 303
+        width: 31
+        height: 50
+      alignment: 9
+      pivot: {x: 0.79486525, y: 0.86563355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "?u\uFFFDi": 21300046
+      "?\uFFFDi": 21300048
+      c?c u: 21300018
+      "c\uFFFDnh ph?i - 1": 21300006
+      "c\uFFFDnh ph?i - 2": 21300008
+      "c\uFFFDnh ph?i - 3": 21300010
+      "c\uFFFDnh tr\uFFFDi - 1": 21300012
+      "c\uFFFDnh tr\uFFFDi - 2": 21300014
+      "c\uFFFDnh tr\uFFFDi - 3": 21300016
+      dau: 21300020
+      "kh\uFFFDi 1": 21300022
+      "kh\uFFFDi 2": 21300024
+      "kh\uFFFDi 3": 21300026
+      m? d??i: 21300036
+      m?t ch?t: 21300032
+      m?t m?: 21300034
+      mao: 21300028
+      mo 1: 21300030
+      "ng\uFFFDn ch\uFFFDn": 21300038
+      "ng\uFFFDn c\uFFFDi": 21300040
+      "th\uFFFDn": 21300042
+      "v\uFFFDng c?": 21300044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

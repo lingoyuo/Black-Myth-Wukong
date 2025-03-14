@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: door_freezingmap
+  m_Controller: {fileID: 9100000, guid: f10443dab13655f41a3eeba7979bb598, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 78c68c3bc1ec47c48a296e3f7ac76f6b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bc9bf218e239a4a46a7d8753b7950bc2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c8614cbe257579348b30703eb457ea2f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 80f849fbec970ad42a0b938e0f7ee406, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2fcd97efa6bab384ba778ceec72d7c25, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7a9f4e801dfd24845b8accc6718c4cab, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 13357da636607be488951a6c0f737042, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bd77b9f0856475541aa3b1348653736d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 510756684cb4d3546bf1efc1b6809351, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 510756684cb4d3546bf1efc1b6809351, type: 2}

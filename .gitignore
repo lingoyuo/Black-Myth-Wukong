@@ -1,0 +1,21 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+.vs/
+.idea/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# User-specific files
+.user
+.userprefs
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# macOS specific files
+.DS_Store
