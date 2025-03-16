@@ -48,9 +48,15 @@ public class AttackSkillManager : MonoBehaviour {
 
     private ItemManager itemList;
 
-    
+    public static AttackSkillManager Instance { get; private set; }
 
-	void Start()
+    void Awake()
+    {
+        Instance = this;
+    }
+
+
+    void Start()
     {
         listSkills = new List<SkillGamePlay>();
 

@@ -61,59 +61,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.32f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\GooglePlayGames\Editor\xcode\Objects.cs" />
-    <Compile Include="Assets\PlayServicesResolver\Editor\SettingsDialog.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\CocoaPodHelper.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\NearbyConnectionUI.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Editor\CocoaPodHelper.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSUtil.cs" />
-    <Compile Include="Assets\PlayServicesResolver\Editor\PlayServicesResolver.cs" />
     <Compile Include="Assets\JMO Assets\Cartoon FX\Editor\CFX_InspectorHelpEditor.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSStrings.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\android\FacebookAndroidUtil.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\xcode\Sections.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\PlistBuddyHelper.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\xcode\Lexer.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\iOS\FixupFiles.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\iOS\PListParser.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\android\ManifestMod.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSIOSSetupUI.cs" />
     <Compile Include="Assets\JMO Assets\Cartoon FX\Editor\CFX_SpawnSystemEditor.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\Utility.cs" />
-    <Compile Include="Assets\PlayServicesResolver\Editor\DefaultResolver.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSDependencies.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\FacebookSettingsEditor.cs" />
     <Compile Include="Assets\Pixelplacement\iTweenPath\Editor\iTweenPathEditor.cs" />
-    <Compile Include="Assets\PlayServicesResolver\Editor\AdMobDependencies.cs" />
-    <Compile Include="Assets\GoogleMobileAds\Editor\PostProcessor.cs" />
-    <Compile Include="Assets\PlayServicesResolver\Editor\IResolver.cs" />
-    <Compile Include="Assets\PlayServicesResolver\Editor\ResolverVer1_2.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSPostBuild.cs" />
     <Compile Include="Assets\JMO Assets\Cartoon FX Easy Editor\Editor\CFXEasyEditor.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSDocsUI.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\xcode\Parser.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSUpgrader.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\xcode\Utils.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\xcode\PBXProject.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\FacebookBuild.cs" />
-    <Compile Include="Assets\PlayServicesResolver\Editor\SampleDependencies.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSAndroidSetupUI.cs" />
-    <Compile Include="Assets\PlayServicesResolver\Editor\ResolverVer1_1.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\FacebookConsoleEndpoint.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\xcode\Elements.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\xcode\Serializer.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\FacebookPostprocess.cs" />
-    <Compile Include="Assets\FacebookSDK\SDK\Editor\iOS\PListDict.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSProjectSettings.cs" />
-    <Compile Include="Assets\GooglePlayGames\Editor\GPGSInstructionWindow.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\FacebookSDK\SDK\Editor\android\DefaultAndroidManifest.xml" />
-    <None Include="Assets\GooglePlayGames\Editor\template-GameInfo.txt" />
-    <None Include="Assets\PlayServicesResolver\Editor\JarResolverLib.dll" />
-    <None Include="Assets\GooglePlayGames\Editor\template-AndroidManifest.txt" />
-    <None Include="Assets\GooglePlayGames\Editor\Podfile.txt" />
-    <None Include="Assets\GooglePlayGames\Editor\template-Constants.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -602,10 +553,6 @@
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit\net40\unity-custom\nunit.framework.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="JarResolverLib">
-      <HintPath>Assets\PlayServicesResolver\Editor\JarResolverLib.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json">

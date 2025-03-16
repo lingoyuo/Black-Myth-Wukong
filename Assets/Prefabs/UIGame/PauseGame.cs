@@ -13,7 +13,5 @@ public class PauseGame : MonoBehaviour {
 
     public void ShowFullBanner()
     {
-		if(GoogleMobileAdsDemoScript.instance != null)
-		GoogleMobileAdsDemoScript.instance.ShowInterstitial ();
     }
 }

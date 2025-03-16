@@ -30,6 +30,13 @@ public class PlayerCombatSystem : MonoBehaviour {
 
     bool input_attack;
 
+    public static PlayerCombatSystem Instances { get; private set; }
+
+    void Awake()
+    {
+        Instances = this;
+    }
+
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -193,4 +200,21 @@ public class PlayerCombatSystem : MonoBehaviour {
 
         input_attack = false;
     }
+
+    public void ManualAttack()
+    {
+        if (release)
+        {
+            input_attack = true;
+            release = false;
+        }
+    }
+
+    public void StopManualAttack()
+    {
+        release = true;
+
+        input_attack = false;
+    }
+
 }

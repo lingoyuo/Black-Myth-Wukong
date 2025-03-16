@@ -39,6 +39,13 @@ public class SupportSkillManager : MonoBehaviour {
 	AudioSource audioSource;
 	public AudioClip audioClip,audioHealth;
 
+    public static SupportSkillManager Instance { get; private set; }
+
+    void Awake()
+    {
+        Instance = this;
+    }
+
     void Start()
     {
         listItemsSupports = new List<SupportItemsGamePlay>();

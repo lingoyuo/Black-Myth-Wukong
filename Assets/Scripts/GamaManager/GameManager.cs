@@ -12,11 +12,11 @@ public class GameManager : MonoBehaviour {
         Ending
     }
 
-    public GameObject player;
-    public UIStartGame _UIStartGame;
-    public UIGameOver _UIGameOver;
-    public UIEndGame _UIEndGame;
-    public TextInGame textGold;
+    public GameObject player = null;
+    public UIStartGame _UIStartGame = null;
+    public UIGameOver _UIGameOver = null;
+    public UIEndGame _UIEndGame = null;
+    public TextInGame textGold = null;
 
     [Space(20)]
     [Header("Time in game")]
@@ -58,17 +58,20 @@ public class GameManager : MonoBehaviour {
     // Access local value
     private LocalAccessValue accessValue;
 
+    public static GameManager Instances { get; private set; }
+
     void Awake()
     {
         // Load video reward
-//		if (HeyzapControl.Instances != null && !HeyzapControl.Instances.isAvailable)
-//			HeyzapControl.Instances.LoadVideos ();
+        //		if (HeyzapControl.Instances != null && !HeyzapControl.Instances.isAvailable)
+        //			HeyzapControl.Instances.LoadVideos ();
 
         //// Load full banner
-//		if (UltimateAds.Instances != null)
-//        {
-//			UltimateAds.Instances.LoadFull ();
-//        }
+        //		if (UltimateAds.Instances != null)
+        //        {
+        //			UltimateAds.Instances.LoadFull ();
+        //        }
+        Instances = this;
     }
     void Start()
     {     
@@ -78,14 +81,17 @@ public class GameManager : MonoBehaviour {
         gold_current_level = 0;
 
         // Check
-        if (!player)
-            Debug.LogError("Please add player to game manager!!");
-        else if (!_UIStartGame)
-            Debug.LogError("Please add UI start game to manager !!");
+        //if (!player)
+        //    Debug.LogError("Please add player to game manager!!");
+        //else if (!_UIStartGame)
+        //    Debug.LogError("Please add UI start game to manager !!");
 
         state = firstState;
-        playerHealth = player.GetComponent<InforStrength>();
-        playerHealth.InitialHealth();
+        if (player != null)
+        {
+            playerHealth = player.GetComponent<InforStrength>();
+            playerHealth.InitialHealth();
+        }
 
         // Test set start = 3
        // newStar = 3;
@@ -131,18 +137,22 @@ public class GameManager : MonoBehaviour {
     void StartGame()
     {
         // active screen fade UI
-        if (!_UIStartGame.gameObject.activeSelf)
+        if (_UIStartGame != null)
         {
-            _UIStartGame.gameObject.SetActive(true);
-        }
+            if (!_UIStartGame.gameObject.activeSelf)
+            {
+                _UIStartGame.gameObject.SetActive(true);
+            }
 
-        // deactive when screen fader finish
-        if (_UIStartGame.DoorManager.activeSelf)
-        {
-            _UIStartGame.gameObject.SetActive(false);
-            // change state to playing when fader complete
-            state = StateGame.Playing;
+            // deactive when screen fader finish
+            if (_UIStartGame.DoorManager.activeSelf)
+            {
+                _UIStartGame.gameObject.SetActive(false);
+                // change state to playing when fader complete
+                state = StateGame.Playing;
+            }
         }
+        
     }
 
 
@@ -179,10 +189,6 @@ public class GameManager : MonoBehaviour {
         CheckLevelUnlock();
         if (!_UIEndGame.gameObject.activeSelf)
         {
-			if(GoogleMobileAdsDemoScript.instance != null)
-			{
-				GoogleMobileAdsDemoScript.instance.ShowInterstitial();
-			}
 
             _UIEndGame.gameObject.SetActive(true);
         }
@@ -250,10 +256,6 @@ public class GameManager : MonoBehaviour {
     public void ShowUIEndGame()
     {
 		if (!_UIGameOver.gameObject.activeSelf) {
-			if(GoogleMobileAdsDemoScript.instance != null)
-			{
-				GoogleMobileAdsDemoScript.instance.ShowInterstitial();
-			}
             
             _UIGameOver.gameObject.SetActive (true);
 		}
