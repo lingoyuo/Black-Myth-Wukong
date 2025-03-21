@@ -6,8 +6,8 @@ public class PauseGame : MonoBehaviour {
 	public GameObject mobileController;
 
 	public void StopGame(){
-		if (mobileController.activeSelf)
-			mobileController.SetActive (false);
+		//if (mobileController.activeSelf)
+		//	mobileController.SetActive (false);
 		Time.timeScale = 0;
 	}
 

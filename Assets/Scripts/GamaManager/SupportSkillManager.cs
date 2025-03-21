@@ -34,7 +34,7 @@ public class SupportSkillManager : MonoBehaviour {
     public ParticleSystem effect_shoe_active;
     public ParticleSystem effect_shield_active;
 
-    private List< SupportItemsGamePlay> listItemsSupports;
+    public List< SupportItemsGamePlay> listItemsSupports;
 	
 	AudioSource audioSource;
 	public AudioClip audioClip,audioHealth;
@@ -68,6 +68,8 @@ public class SupportSkillManager : MonoBehaviour {
 
     public void ActiveItems(int order)
     {
+        if (listItemsSupports[order].item.Get_AmountSkill <= 0)
+            return;
         listItemsSupports[order].item.Active(player);                                                       // active items
         listItemsSupports[order].item.Set_AmountSkill = listItemsSupports[order].item.Get_AmountSkill - 1;  // decrease amount items   
 		listItemsSupports [order].UIitem.GetComponent<Button> ().interactable = false;

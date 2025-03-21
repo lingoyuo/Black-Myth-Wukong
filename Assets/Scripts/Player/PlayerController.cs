@@ -112,14 +112,14 @@ public class PlayerController : MonoBehaviour
 	void Update ()
 	{
 
-#if UNITY_EDITOR
+//#if UNITY_EDITOR
         horizontal = Input.GetAxisRaw("Horizontal");
 
         if (Input.GetKey(KeyCode.Space))
             Jump_in_editor();
         else
             Jump_release_in_editor();
-#endif
+//#endif
 
         if (Mathf.Abs (rid.linearVelocity.x) > 5 && grounded) {
 			if (!effect_run_player.isPlaying)
@@ -355,7 +355,7 @@ public class PlayerController : MonoBehaviour
     ** Editor test mode
     */
 
-	#if UNITY_EDITOR
+	//#if UNITY_EDITOR
 	void Jump_in_editor ()
 	{
 		if (!playerDead) {
@@ -385,7 +385,7 @@ public class PlayerController : MonoBehaviour
 		dive = false;
 		currentPosPlayer = transform.position;
 	}
-	#endif
+	//#endif
 
 	/* 
 ** Moblie mode

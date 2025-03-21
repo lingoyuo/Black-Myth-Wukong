@@ -83,8 +83,8 @@ public class InfomationGame : MonoBehaviour
         audioSource = GameObject.Find("Pause").GetComponent<AudioSource>();
         AudioManager.Instances.PlayAudioEffect(audioSource);
 
-        if (mobileController.activeSelf)
-            mobileController.SetActive(false);
+        //if (mobileController.activeSelf)
+        //    mobileController.SetActive(false);
 
         if (item1 != null && item2 != null)
         {
@@ -135,7 +135,7 @@ public class InfomationGame : MonoBehaviour
     {
         yield return new WaitForSeconds(0.2f);
         pause.SetActive(false);
-        mobileController.SetActive(true);
+        //mobileController.SetActive(true);
         item1.SetActive(true);
         item2.SetActive(true);
     }

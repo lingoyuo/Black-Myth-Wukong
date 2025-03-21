@@ -13,7 +13,14 @@ public class UiControl : MonoBehaviour
 	public GameObject attack1;
 	public GameObject attack2;
 
-	public void Left1 ()
+	public static UiControl Instances;
+
+    void Awake()
+    {
+        Instances = this;
+    }
+
+    public void Left1 ()
 	{
 		left1.SetActive (false);
 		left2.SetActive (true);

@@ -36,7 +36,7 @@ public class DoorStartProcess : MonoBehaviour {
     {               
         anim.SetTrigger("open");     
 
-        if (!player || !MobileController)
+        if (!player)
         {
             Debug.Log("Door start error null empty obj!!!");
             Application.Quit();
@@ -53,7 +53,6 @@ public class DoorStartProcess : MonoBehaviour {
         if (anim.GetCurrentAnimatorStateInfo(0).IsName("doorOpened") && !opened)
         {
             player.SetActive(true);
-            MobileController.SetActive(true);
 			opened = true;
         }
     }

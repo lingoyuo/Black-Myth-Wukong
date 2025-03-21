@@ -17,6 +17,11 @@ class HealthItems:ItemPlayer
 
     public override void Active(GameObject targetActive)
     {
-        targetActive.GetComponent<InforStrength>().Set_Health = 5;
+        if (targetActive.GetComponent<InforStrength>().Get_Health == 8)
+            return;
+        else if (targetActive.GetComponent<InforStrength>().Get_Health + 2 >= 8)
+            targetActive.GetComponent<InforStrength>().Set_Health = 8;
+        else
+            targetActive.GetComponent<InforStrength>().Set_Health = 2 + targetActive.GetComponent<InforStrength>().Get_Health;
     }
 }

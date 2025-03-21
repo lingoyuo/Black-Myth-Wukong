@@ -4,6 +4,48 @@ public class GameInputManager : MonoBehaviour
 {
     void Update()
     {
+        //if (Input.GetKeyDown(KeyCode.A))
+        //{
+        //    if (UiControl.Instances != null)
+        //    {
+        //        UiControl.Instances.Left1();
+        //    }
+        //}
+        //if (Input.GetKeyUp(KeyCode.A))
+        //{
+        //    if (UiControl.Instances != null)
+        //    {
+        //        UiControl.Instances.Left2();
+        //    }
+        //}
+        //if (Input.GetKeyDown(KeyCode.D))
+        //{
+        //    if (UiControl.Instances != null)
+        //    {
+        //        UiControl.Instances.Right1();
+        //    }
+        //}
+        //if (Input.GetKeyUp(KeyCode.D))
+        //{
+        //    if (UiControl.Instances != null)
+        //    {
+        //        UiControl.Instances.Right2();
+        //    }
+        //}
+        //if (Input.GetKeyDown(KeyCode.Space))
+        //{
+        //    if (UiControl.Instances != null)
+        //    {
+        //        UiControl.Instances.Jump1();
+        //    }
+        //}
+        //if (Input.GetKeyUp(KeyCode.Space))
+        //{
+        //    if (UiControl.Instances != null)
+        //    {
+        //        UiControl.Instances.Jump2();
+        //    }
+        //}
         if (Input.GetKeyDown(KeyCode.J))
         {
             UseSkill(0);
@@ -38,7 +80,7 @@ public class GameInputManager : MonoBehaviour
                 PlayerCombatSystem.Instances.StopManualAttack();
             }
         }
-        else if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (InfomationGame.Instances != null)
             {

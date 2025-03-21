@@ -22,7 +22,7 @@ public class TimeGame : MonoBehaviour {
 	void Awake(){
 		gameManager = FindObjectOfType<GameManager> ();
 		timeGame = gameManager.time_live;
-	}
+    }
 
 	void Start(){
 		items = (ItemManager)FindObjectOfType(typeof(ItemManager));
